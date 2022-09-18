@@ -1,0 +1,19 @@
+region: "AS"
+
+database:
+  type: mysql
+
+  sqlite:
+    file: database.sqlite
+
+  mysql:
+    host: 127.0.0.1:3306
+    username: username
+    password: "password"
+    schema: schema
+
+  worker-limit: 2
+
+webhooks:
+  ban: "-"
+  reports: "-"

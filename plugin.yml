@@ -1,0 +1,11 @@
+name: Practice
+main: DidntPot\PracticeCore
+
+version: 3.0.6
+
+api: 3.0.0
+
+authors:
+  - "DidntPot"
+  - "Jkorn" # Base Code.
+  - "ZodiaX" # Helped with some stuff.
